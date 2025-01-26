@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ad Space NFT Marketplace
 
 Welcome to the Ad Space NFT Marketplace! This decentralized application allows users to mint and list unique ad spaces as NFTs on the blockchain. Built using Next.js, TypeScript, and Ethereum smart contracts, this project showcases the power of blockchain technology in the advertising space.
@@ -43,4 +44,6 @@ During the minting process, users will see loading messages such as:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or features, feel free to create a pull request or open an issue.
+=======
+>>>>>>> 5770d0eab20ceb76595ec99eb400e317f8a86b8b
 
